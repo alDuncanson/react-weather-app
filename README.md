@@ -2,7 +2,7 @@
 
 This is a simple weather app built with (first time using) [ReactJS](https://reactjs.org/)
 
-![Weather app screenshot](https://github.com/alDuncanson/react-weather-app/blob/master/Screenshot%20from%202018-08-13%2018-35-13.png)
+![Weather app screenshot](https://github.com/alDuncanson/react-weather-app/blob/master/Screenshot%20from%202018-08-13%2018-41-40.png)
 
 ## To run locally
 
